@@ -1,16 +1,17 @@
-## Hi there 👋
+# Lucas Morris
 
-<!--
-**lucas-msb/lucas-msb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor em formação | Ciência da Computação
 
-Here are some ideas to get you started:
+Sou estudante de **Ciência da Computação na PUC Minas**
+Atualmente venho desenvolvendo projetos e estudando tecnologias como **C#**, **Python**, **PHP**, **JavaScript**, **SQL** e **Unity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<div>
+<a href="https://br.linkedin.com/in/lxmorris">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:lxmorriss@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
+<br>
