@@ -2,7 +2,7 @@
 
 ### Desenvolvedor em formação | Ciência da Computação
 
-<b>OS</b>.................................Windows 10,
+<b><span style="color: orange;">OS</span></b>.................................Windows 10,
 Sou estudante de **Ciência da Computação na PUC Minas**
 Atualmente venho desenvolvendo projetos e estudando tecnologias como **C#**, **Python**, **PHP**, **JavaScript**, **SQL** e **Unity**.
 
